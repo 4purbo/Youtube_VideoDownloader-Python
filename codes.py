@@ -1,4 +1,5 @@
 # At first, install these modules [pytube, pyttsx3]
+# to install type "pip install pytube pyttsx3" in command prompt/terminal
 
 from pytube import *# for dowloading
 from pyttsx3 import *# for the voice
